@@ -1,5 +1,5 @@
 import React from "react";
-import CommentList from "./CommentList";
+import CommentList from "./commentList";
 
 const Comments = ({ comments }) => {
   return (
