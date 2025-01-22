@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import Profile from "./components/profile/Profile.jsx";
-import Notifications from "./components/notifications/Notifications";
-import Newsfeed from "./components/newsfeed/Newsfeed";
-import Comments from "./components/comments/Comments";
+import Notifications from "./components/notifications/Notifications.jsx";
+import Newsfeed from "./components/newsfeed/NewsFeed.jsx";
+import Comments from "./components/comments/Comments.jsx";
 import "./App.css";
 
 const App = () => {
